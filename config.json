@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderfonnect",
+        "uuid": 38209704,
+        "checksum": "sgue4b"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
